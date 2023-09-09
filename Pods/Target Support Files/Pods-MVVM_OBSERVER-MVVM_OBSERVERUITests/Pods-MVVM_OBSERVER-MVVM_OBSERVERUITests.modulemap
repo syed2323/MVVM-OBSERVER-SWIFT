@@ -1,0 +1,6 @@
+framework module Pods_MVVM_OBSERVER_MVVM_OBSERVERUITests {
+  umbrella header "Pods-MVVM_OBSERVER-MVVM_OBSERVERUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
